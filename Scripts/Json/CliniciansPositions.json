@@ -1,0 +1,173 @@
+{
+  "steps":
+  [
+    {
+      "nameStep": "Portal Vein Access",
+      "clinicians":
+      [
+        {
+          "name":"main operator",
+          "x_opti":-0.92,
+          "y_opti":-1,
+          "z_opti":-0.65,
+          "x_init":0.92,
+          "y_init":-1,
+          "z_init":-0.65
+        },
+        {
+          "name":"assistant",
+          "x_opti":-3.2,
+          "y_opti":-1,
+          "z_opti":0.96,
+          "x_init":-3.2,
+          "y_init":-1,
+          "z_init":-0.65
+        },
+        {
+          "name":"circulating nurse",
+          "x_opti":-2.07,
+          "y_opti":-1,
+          "z_opti":-3.14,
+          "x_init":-2.07,
+          "y_init":-1,
+          "z_init":-1.65
+        },
+        {
+          "name":"radiology technician",
+          "x_opti":-3.99,
+          "y_opti":-1,
+          "z_opti":-4.47,
+          "x_init":-1.99,
+          "y_init":-1,
+          "z_init":-4.0
+        }
+      ]
+    },
+    {
+      "nameStep": "Portal Vein Navigation",
+      "clinicians":
+      [
+        {
+          "name":"main operator",
+          "x_opti":-0.92,
+          "y_opti":-1,
+          "z_opti":-0.65,
+          "x_init":-0.92,
+          "y_init":-1,
+          "z_init":0.65
+        },
+        {
+          "name":"assistant",
+          "x_opti":-1.63,
+          "y_opti":-1,
+          "z_opti":-1.25,
+          "x_init":-0.92,
+          "y_init":-1,
+          "z_init":1.65
+        },
+        {
+          "name":"circulating nurse",
+          "x_opti":-3.02,
+          "y_opti":-1,
+          "z_opti":-2.26,
+          "x_init":-0.92,
+          "y_init":-1,
+          "z_init":-0.65
+        },
+        {
+          "name":"radiology technician",
+          "x_opti":-3.99,
+          "y_opti":-1,
+          "z_opti":-4.47,
+          "x_init":-0.92,
+          "y_init":-1,
+          "z_init":-4.47
+        }
+      ]
+    },
+    {
+      "nameStep": "Digital Substraction Angiography",
+      "clinicians":
+      [
+        {
+          "name":"main operator",
+          "x_opti":-2.55,
+          "y_opti":-1,
+          "z_opti":1.77,
+          "x_init":-0.92,
+          "y_init":-1,
+          "z_init":-0.65
+        },
+        {
+          "name":"assistant",
+          "x_opti":-3.2,
+          "y_opti":-1,
+          "z_opti":0.96,
+          "x_init":-2.92,
+          "y_init":-1,
+          "z_init":-0.65
+        },
+        {
+          "name":"circulating nurse",
+          "x_opti":-2.07,
+          "y_opti":-1,
+          "z_opti":-3.14,
+          "x_init":-1.92,
+          "y_init":-1,
+          "z_init":0.65
+        },
+        {
+          "name":"radiology technician",
+          "x_opti":-2.78,
+          "y_opti":-1,
+          "z_opti":-3.73,
+          "x_init":-3.99,
+          "y_init":-1,
+          "z_init":-4.47
+        }
+      ]
+    },
+    {
+      "nameStep": "Therapy Delivery",
+      "clinicians":
+      [
+        {
+          "name":"main operator",
+          "x_opti":-0.92,
+          "y_opti":-1,
+          "z_opti":-0.65,
+          "x_init":-2.55,
+          "y_init":-1,
+          "z_init":1.17
+        },
+        {
+          "name":"assistant",
+          "x_opti":-1.63,
+          "y_opti":-1,
+          "z_opti":-1.25,
+          "x_init":-2.07,
+          "y_init":-1,
+          "z_init":-3.14
+        },
+        {
+          "name":"circulating nurse",
+          "x_opti":-2.1,
+          "y_opti":-1,
+          "z_opti":-2.01,
+          "x_init":-2.1,
+          "y_init":-1,
+          "z_init":-1
+        },
+        {
+          "name":"radiology technician",
+          "x_opti":-3.99,
+          "y_opti":-1,
+          "z_opti":-4.47,
+          "x_init":-0.92,
+          "y_init":-1,
+          "z_init":-0.65
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+To use the scripts in the folder "Experimental", you need to add the package "NugetForUnity.3.0.1" to the project. Then in NuGet-> Manage NuGet Package, add the package "MathNet.Numerics". This package is used in the script "ShieldScatterMapCreation.cs"
+These scripts are for the hand tracking and hand exposition (look MRTK tutorial to enable the hand tracking), for the clinician exposition and for the scatter map creation with shield
